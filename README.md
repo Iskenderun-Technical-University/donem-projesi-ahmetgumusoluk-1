@@ -2,5 +2,5 @@
 ![](https://github.com/Iskenderun-Technical-University/donem-projesi-ahmetgumusoluk-1/blob/ed49b9d64e073b956472f64c89d72257b70a617d/oyun.jpg)
 <br>
 ![](https://github.com/Iskenderun-Technical-University/donem-projesi-ahmetgumusoluk-1/blob/748df4bc3e7c22f2b03c3b8498e1af1e066c3543/oyun1.jpg)<br>
-![](oyun2.jpg)<br>
+![](https://github.com/Iskenderun-Technical-University/donem-projesi-ahmetgumusoluk-1/blob/6b71b2cb851b638eba55aa2d68f0005ce062d8df/oyun2.jpg)<br>
 
