@@ -1,2 +1,5 @@
-<h1><b>Oyuncu kontrolü:</b></h1><br>
-<h2>Kontrol edilen:Helikopter</h2> <b>Üstten görünen bir oyun sahnesindedir.
+<h1><b>Helikopter Kasaba koruma Oyunu:</b></h1><br>
+![](1.jpg)<br>
+![](2.jpg)<br>
+![](3.jpg)<br>
+
